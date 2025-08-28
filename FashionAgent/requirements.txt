@@ -1,0 +1,8 @@
+pandas
+prophet
+simple-salesforce
+openpyxl
+fastapi
+uvicorn
+requests
+pyspark
